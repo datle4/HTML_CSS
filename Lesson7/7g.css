@@ -1,0 +1,28 @@
+  .image {
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    vertical-align: middle;
+  }
+
+  .status-box {
+    margin-left: 5px;
+    font-size: 17px;
+    vertical-align: middle;
+    border: none;
+    margin-right: 50px;
+  }
+
+  .tweet-button {
+    background-color: rgb(29, 155, 240);
+    color: white;
+    border: none;
+    border-radius: 30px;
+    font-weight: bold;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 30px;
+    vertical-align: middle;
+  }
